@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*
+pytest-cache-files-*/
+pytest-cache-files-05efh7zc
+pytest-cache-files-awrazi25
+pytest-cache-files-wazmvxig
+.venv/
+venv/
+.env
+.git/
+.gitignore
+*.log
